@@ -7,7 +7,7 @@ This repository depends on [gax-java/tree/diregapic-lro](https://github.com/vam-
 #### To build
 1. Build and install the `diregapic-lro` branch of `gax-java`:
   ```    
-  git clone https://github.com/vam-google/gax-java.git
+  git clone https://github.com/googleapis/gax-java.git
   cd gax-java
   git fetch --all
   git checkout diregapic-lro
